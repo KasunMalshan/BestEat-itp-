@@ -230,18 +230,4 @@ export const data = [
       image:
         'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png',
     },
-    {
-      id: 9,
-      name: 'Driver',
-      image:
-        'https://assets.hardwarezone.com/img/2019/06/food-delivery.jpg',
-      url: '/drivers'
-    },
-    {
-      id: 10,
-      name: 'Vehicle',
-      image:
-        'https://media.istockphoto.com/id/1160719489/vector/yellow-or-orange-motor-car-with-food-delivery-sign-cartoon-style.jpg?s=612x612&w=0&k=20&c=X4vGgVpy6It7JCI_yqfJbhP8g2olwYukXkrY5DzPQX0=',
-      url: '/vehicles'
-    }
   ];
